@@ -43,5 +43,7 @@ The dataset used is the classic **Titanic Dataset** (`train.csv`).
 Nothing!  
 This project is **pure Python**, no external libraries are used. Just run:
 
+## Note: 
+Libraries are used for comparison only!
 ```bash
 python data_loader.py
