@@ -86,6 +86,7 @@ The data used in this project comes from a `train.csv` file (e.g., Titanic datas
 - `data_loading.py`: Contains the `read_csv` function to load data from a CSV file.
 - `train.csv`: The dataset file (must be provided in the same directory).
 
+---
 
 # Support Vector Machine HARD MARGINS(SVM) Implementation in Pure Python
 
