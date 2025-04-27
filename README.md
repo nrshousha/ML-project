@@ -47,7 +47,7 @@ This project is **pure Python**, no external libraries are used. Just run:
 Libraries in this section are used for comparison only!
 ```bash
 python data_loader.py
-
+```
 -----
 
 # K-Means Clustering Project Without External Libraries
