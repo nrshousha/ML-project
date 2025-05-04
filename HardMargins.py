@@ -167,5 +167,4 @@ if __name__ == "__main__":
     # Predict and evaluate the model
     y_pred = svm_predict(w, b, X_test)
     accuracy = sum(1 for yp, yt in zip(y_pred, y_test) if yp == yt) / len(y_test)
-    print(f"Hard-Margin SVM Accuracy: {accuracy * 100:.2f}%")
-    print('data is not linearly separable, to get a better accuracy, use soft margin SVM')
+    print(f"Hard-Margin SVM Model is trained")
